@@ -1,12 +1,15 @@
-body{
-    background
-}
-
 h1{
     color: blueviolet;
     text-align: center;
+    font-size: 4em;
+    border:15px solid pink;
+   margin: 1% 30%;
+   background: pink;  
   }
 div{
 text-align: center ;
-font-size: 20px   
+font-size: 3em;
+background: pink;
+margin: 1em 30%;
+    
 }
